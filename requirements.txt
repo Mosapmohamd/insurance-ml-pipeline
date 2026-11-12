@@ -1,0 +1,11 @@
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+scipy>=1.9
+statsmodels>=0.13
+xgboost>=1.7
+lightgbm>=3.3
+joblib>=1.2
+matplotlib>=3.6
+seaborn>=0.12
+openpyxl>=3.1   # only for Excel input in Scripts/infrence.py
